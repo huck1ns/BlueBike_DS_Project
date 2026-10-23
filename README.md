@@ -1,1 +1,2 @@
-#BlueBike Data Science Project
+# BlueBike Data Science Project
+Authors: Jack Huckins
