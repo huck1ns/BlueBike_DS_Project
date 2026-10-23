@@ -2,3 +2,16 @@
 venv/
 env/
 ENV/
+DATA/
+202301-bluebikes-tripdata.csv 
+202304-bluebikes-tripdata.csv 
+202307-bluebikes-tripdata.csv 
+202310-bluebikes-tripdata.csv 
+202402-bluebikes-tripdata.csv 
+202405-bluebikes-tripdata.csv 
+202408-bluebikes-tripdata.csv 
+202411-bluebikes-tripdata.csv 
+202503-bluebikes-tripdata.csv 
+202506-bluebikes-tripdata.csv 
+202509-bluebikes-tripdata.csv 
+202512-bluebikes-tripdata.csv
